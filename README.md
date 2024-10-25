@@ -15,14 +15,17 @@ Forecasting future sales using ARIMA and SARIMAX models.
 The dataset includes:
 
 Date (datum): Monthly sales data from January 2014 to December 2019.
-Drug categories: Sales for eight drug categories including:
-M01AB (Non-steroidal anti-inflammatory drugs)
-M01AE (Propionic acid derivatives)
-N02BA (Salicylic acid derivatives)
-N02BE (Anilides and Pyrazolones)
-N05B (Anxiolytic psycholeptics)
-N05C (Hypnotic and sedative psycholeptics)
-R03 (Medications for obstructive airway diseases)
+
+Drug categories: 
+
+Sales for eight drug categories including:
+M01AB (Non-steroidal anti-inflammatory drugs),
+M01AE (Propionic acid derivatives),
+N02BA (Salicylic acid derivatives),
+N02BE (Anilides and Pyrazolones),
+N05B (Anxiolytic psycholeptics),
+N05C (Hypnotic and sedative psycholeptics),
+R03 (Medications for obstructive airway diseases),
 R06 (Antihistamines for systemic use)
 
 
